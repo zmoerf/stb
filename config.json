@@ -1,0 +1,23 @@
+{
+    "url": "https://cmstv.pengadaan.id/api/bot/serah-terima?",
+    "urlWA": "https://komreport.wabank.id/matrix.json?_=1663543511461",
+    "perPage": 500,
+    "page": 1,
+    "fotoWA": 0,
+    "fotoDoc": 1,
+    "excelFile": 0,
+    "CheckFotoDashboard": 0,
+    "penerimaJson": 0,
+    "limit": 100000,
+    "offset": 0,
+    "uploadFotoLocal": 1,
+    "db_host": "localhost:3306",
+    "db_user": "root",
+    "db_pass": "root",
+    "db_port": "3306",
+    "db_database": "cms-tv",
+    "ckCsrfToken": "RWThxmcyE151mnzKlR3yhTrQ6PajCb7Q3vBBD2R9",
+    "downAndUp": 0,
+    "generate": 0
+
+}
